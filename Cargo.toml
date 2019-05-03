@@ -1,0 +1,21 @@
+[package]
+name = "tomahawk"
+version = "0.1.0"
+authors = ["Petko D. Petkov <pdp@gnucitizen.org>"]
+edition = "2018"
+
+description = "HTTP hacking toolkit"
+documentation = "https://github.com/pownrs/tomahawk"
+homepage = "https://github.com/pownrs/tomahawk"
+repository = "https://github.com/pownrs/tomahawk"
+
+readme = "README.md"
+
+keywords = ["http", "hacking"]
+
+categories = ["development-tools"]
+
+license = "MIT"
+license-file = "LICENSE"
+
+[dependencies]
